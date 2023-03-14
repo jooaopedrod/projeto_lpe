@@ -1,0 +1,3 @@
+C:/Users/jowop/CLionProjects/projeto-lpe/cmake-build-debug/CMakeFiles/projeto_lpe.dir
+C:/Users/jowop/CLionProjects/projeto-lpe/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jowop/CLionProjects/projeto-lpe/cmake-build-debug/CMakeFiles/rebuild_cache.dir
